@@ -25,7 +25,6 @@ $games = $result->fetch_all(MYSQLI_ASSOC);
         }
 
         header {
-            background-color: #4CAF50;
             color: white;
             text-align: center;
             padding: 1em;
