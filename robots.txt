@@ -1,2 +1,42 @@
 User-agent: *
-Allow: /games2.php
+Allow: /robot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/games2.php
